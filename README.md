@@ -4,7 +4,7 @@
 > ## 📚 Stack
 > - [x] Java / JavaFx
 > - [x] C
-> - [x] HTML / CSS 기초
+> - [x] HTML / CSS
 > - [x] git
 
 > ## 🚩 Project
