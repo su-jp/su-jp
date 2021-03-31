@@ -7,10 +7,10 @@
 > - [x] HTML / CSS 기초
 > - [x] git
 
-> ## Project
+> ## 🚩 Project
 > - _Personal_
 >   - Web
 > - _Team_
 >   - Web
 >   - GUI
->     - [카페 무인 주문 키오스크](https://github.com/su-jp/cafeKiosk.git)
+>     - ☕ [카페 무인 주문 키오스크](https://github.com/su-jp/cafeKiosk.git)
