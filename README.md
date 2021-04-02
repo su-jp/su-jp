@@ -4,8 +4,10 @@
 > ## 📚 Stack
 > - [x] Java / JavaFx
 > - [x] C
+> - [x] OracleDB
 > - [x] HTML / CSS
-> - [x] git
+> - [x] Git
+
 
 > ## 🚩 Project
 > - _Personal_
