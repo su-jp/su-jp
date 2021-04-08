@@ -5,7 +5,6 @@
 > - [x] Java / JavaFx
 > - [x] C
 > - [x] OracleDB
-> - [x] HTML / CSS
 > - [x] Git
 
 
