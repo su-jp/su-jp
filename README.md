@@ -11,6 +11,7 @@
 > ## 🚩 Project
 > - _Personal_
 >   - Web
+>     - 🍒 [블로그 (진행중)](https://github.com/su-jp/su-jp.github.io.git)
 >   - GUI
 >     - 🏰 [호그와트와 미니 게임](https://github.com/su-jp/Hogwarts.git)
 > - _Team_
