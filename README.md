@@ -13,7 +13,7 @@
 > ## 🚩 Project
 > - _Personal_
 >   - Web
->     - 🥨 [크럼블로그](https://github.com/su-jp/su-jp.github.io.git)
+>     - 🥨 [크럼블로그](https://github.com/su-jp/crumblog.git)
 >   - GUI
 >     - 🏰 [호그와트와 미니 게임](https://github.com/su-jp/Hogwarts.git)
 > - _Team_
