@@ -3,8 +3,10 @@
 
 > ## 📚 Stack
 > - [x] Java / JavaFx
-> - [x] C
-> - [x] OracleDB
+> - [x] JavaScript
+> - [x] Spring / SpringBoot
+> - [x] MySQL / OracleDB
+> - [x] HTML / CSS
 > - [x] Git
 
 
@@ -15,6 +17,5 @@
 >   - GUI
 >     - 🏰 [호그와트와 미니 게임](https://github.com/su-jp/Hogwarts.git)
 > - _Team_
->   - Web
 >   - GUI
 >     - ☕ [카페 무인 주문 키오스크](https://github.com/su-jp/cafeKiosk.git)
