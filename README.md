@@ -1,11 +1,12 @@
 > # _✨Sujin Park✨_
-> Java 개발자를 목표로 공부하며 발전하는 중 ✏
+> 항상 공부하며 발전하는 주니어개발자 ✏
 
 > ## 📚 Stack
-> - [x] Java / JavaFx
+> - [x] Java / Spring
 > - [x] JavaScript
-> - [x] Spring / SpringBoot
-> - [x] MySQL / OracleDB
+> - [x] PHP / Laravel
+> - [x] Dart / Flutter
+> - [x] Oracle / MySQL
 > - [x] HTML / CSS
 > - [x] Git
 
