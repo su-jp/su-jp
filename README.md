@@ -7,15 +7,10 @@
 > 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-jp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-> ## 🚩 Project
-> - _Personal_
+> ## 🚩 Personal Project
 >   - Web
 >     - 🏡 [인테리어 쇼핑몰 - 편안한가](https://github.com/su-jp/everydaycomfort.git)
->     - 🥨 [크럼블로그](https://github.com/su-jp/crumblog.git)
 >   - App
 >     - 📝 [개발중 :: 일상 기록 어플 - 데일리데일리](https://github.com/su-jp/dailyDaily.git)
 >   - GUI
 >     - 🏰 [호그와트와 미니 게임](https://github.com/su-jp/Hogwarts.git)
-> - _Team_
->   - GUI
->     - ☕ [카페 무인 주문 키오스크](https://github.com/su-jp/cafeKiosk.git)
