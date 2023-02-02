@@ -12,4 +12,4 @@
 > <br>
 > <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 > <br><br>
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-jp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-jp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
